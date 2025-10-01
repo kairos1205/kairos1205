@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Kairos — Senior Blockchain & Full-Stack Engineer
 
-Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experience** building scalable web applications and decentralized systems. I specialize in **blockchain development (Solana, Ethereum, Bitcoin)** and full-stack solutions using the **MERN stack, Python**, and modern JavaScript/TypeScript frameworks.
+Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experience** building scalable web applications and decentralized systems. I specialize in **blockchain development (Solana, Ethereum, Bitcoin)** and full-stack solutions using the **MERN stack, Python**, and modern JavaScript/TypeScript frameworks. Recently I worked on trading related platforms.
 
 ---
 
 ## 🔗 About Me
 
 - 🎯 **Senior Blockchain Developer**  
-  Deep experience in **Solidity**, **Rust**, and **Move** for smart contract development.  
-  Worked extensively with **EVM**, **Solana**, and **Bitcoin script**.  
+  Deep experience in **Solidity** and **Rust** for smart contract development.  
+  Worked extensively with **Solana**, **EVM** and **Bitcoin script**.  
   Building secure, scalable dApps, DeFi platforms, NFT marketplaces, and Layer-1/2 protocols.
 
 - 💻 **Full-Stack Architect**  
@@ -21,71 +21,98 @@ Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experi
   Passionate about creating secure, user-first, decentralized systems.
 
 ---
+##  🥇 Main Skill
+<br />
 
-## 🧠 Skills & Technologies
-
-### 🌐 Web Development
-`TypeScript` `React` `Next.js` `Redux` `Tailwind CSS`  
-`Node.js` `Express` `MongoDB` `PostgreSQL` `REST` `GraphQL`  
-`Python` `Django` `FastAPI`  
-
-### ⛓ Blockchain & Web3
-`Solidity` `Rust` `Move`  
-`Ethereum` `Solana` `Bitcoin`  
-`Hardhat` `Truffle` `Anchor` `Metaplex`  
-`Smart Contracts` `dApps` `NFTs` `DeFi` `DAOs`  
-
-### ☁️ DevOps & Tools
-`Docker` `CI/CD` `GitHub Actions`  
-`AWS` `Vercel` `Netlify`  
-`Jest` `Playwright` `Mocha/Chai`  
-`Ethers.js` `Web3.js` `Viem`  
-`Metamask` `Phantom` `WalletConnect`  
-
----
-
-## 🧪 Featured Projects
-
-### 🔐 Charity Donation Tracker (SUI Blockchain)
-> A transparent and decentralized donation tracking system using smart contracts on the SUI blockchain.
-
-- Smart contract written in **Move**
-- Tracks donations, validation, and fund release
-- Role-based access for donors, recipients, and authorities
-
-[GitHub Repo](#) | [Video Demo](#)
-
----
-
-### 🗳️ Ethereum Voting DApp
-> Decentralized Voting System built on Ethereum using **Solidity**, **Truffle**, **FastAPI**, and **MySQL**.
-
-- JWT-based authentication
-- Real-time result tracking
-- Admin dashboard for candidate management
-
-[GitHub Repo](#) | [Video Demo](#)
-
----
-
-### 🧾 Blockchain Notary System
-> Timestamp and verify document authenticity using a custom-built blockchain in Python.
-
-- SHA-256 file hashing
-- Immutable block storage
-- Flask-based frontend with chain explorer
-
-[GitHub Repo](#)
+<table align="center">
+<!-- skill -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>GoLang
+    </td>
+  </tr>
+  <!-- network -->
+<tr>
+  <td align="center" width="90">
+    <img src="./icons/ethereum.png" height="45" >
+    <br>Ethereum
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/solana.png" height="45" >
+    <br>Solana
+  </td>
+  <td align="center" width="90">
+    <img src="./icons/Bitcoin.svg" height="45" >
+    <br>Bitcoin
+  </td>
+    
+</tr>
+<tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🤝 Let's Collaborate
@@ -96,7 +123,7 @@ I'm open to:
 - Open-source contributions
 - Blockchain audits & architecture reviews
 
-📬 **Reach out** via [LinkedIn](#) | [Email](mailto:you@example.com) | [Portfolio Website](#)
+📬 **Reach out** via [Telegram](https://t.me/kairousstroud1205) | [Email](mailto:kairosstroud1205@gmail.com)
 
 ---
 
