@@ -21,7 +21,9 @@ Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experi
   Passionate about creating secure, user-first, decentralized systems.
 
 ---
-##  🥇 Main Skill
+
+## 🥇 Main Skill
+
 <br />
 
 <table align="center">
@@ -70,7 +72,22 @@ Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experi
     <img src="./icons/Bitcoin.svg" height="45" >
     <br>Bitcoin
   </td>
-    
+  <td align="center" width="90">
+    <img src="./icons/polkadot1.png" height="45" >
+    <br>Polkadot
+  </td>
+  <td align="center" width="90">
+      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
+      <br>OpenAI
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="90">
+      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
+      <br>LangChain
+    </td>  
 </tr>
 <tr>
     <td align="center" width="90">
@@ -90,34 +107,25 @@ Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experi
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
-      <br>OpenAI
+      <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="55" height="55" />
+      <br>AWS
     </td>
     <td align="center" width="90">
-      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
-      <br>DeepSeek
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="55" height="55" />
+      <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
-      <br>LangChain
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
     </td>
+    
   </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kairos1205/kairos1205/output/pacman-contribution-graph.svg">
-</picture>
----
 
 ## 🤝 Let's Collaborate
 
 I'm open to:
+
 - Freelance consulting
 - Startup collaborations
 - Open-source contributions
