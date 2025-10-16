@@ -1,5 +1,3 @@
-I am Canadian.
-
 # 👋 Hi, I'm Kairos — Senior Blockchain & Full-Stack Engineer
 
 Welcome to my GitHub! I'm a seasoned software engineer with **7+ years of experience** building scalable web applications and decentralized systems. I specialize in **blockchain development (Solana, Ethereum, Bitcoin)** and full-stack solutions using the **MERN stack, Python**, and modern JavaScript/TypeScript frameworks. Recently I worked on trading related platforms.
